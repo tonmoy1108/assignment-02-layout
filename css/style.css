@@ -1,3 +1,6 @@
+body{
+  margin: auto;
+}
 .container{
 	width: 600px;
 	margin: 60px auto;
